@@ -45,7 +45,7 @@ PROJECT_KEY-01
 ## インストール
 
 ```
-npx skills add <owner>/git-semantic-commit
+npx skills add mfxgu2i/git-semantic-commit
 ```
 
 ## 参考
